@@ -17,3 +17,4 @@
   5)  ``` yarn solcjs --bin --abi --include-path node_modules/ --base-path . -o . SimpleStorage.sol ``` (add as a script)
   6)  ``` yarn add ethers@5.7.2 ``` //current version is unstable / 6 is in beta
   7)  ``` yarn add dotenv --save ```
+  8)  ``` ./ganache-2.7.0-linux-x86_64.AppImage ``` to run ganache
